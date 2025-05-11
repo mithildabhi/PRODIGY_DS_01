@@ -13,4 +13,4 @@
 ### Contact Information
 - For any inquiries or collaborations, feel free to reach out:
   - Email: mithildabhi898@gmail.com
-  - LinkedIn: Mithil Dabhi[www.linkedin.com/in/mithildabhi]
+  - LinkedIn: [Mithil Dabhi](www.linkedin.com/in/mithildabhi)
