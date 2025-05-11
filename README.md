@@ -1,5 +1,7 @@
 # Prodigy InfoTech Internship: Data Analysis Insights
 -  Welcome to the repository for my internship at Prodigy InfoTech! This space documents Task 1 of my journey, which centers around data preprocessing, analysis, and extracting meaningful insights.
+  <img width="742" alt="question" src="https://github.com/user-attachments/assets/b656b7a9-dbe1-4986-a0bd-9ac0e206a71b" style ='center'/>
+
 
 ### 📊 Task Summary
 - Developed a bar chart or histogram to represent the distribution of a categorical (e.g., gender) or continuous (e.g., age) variable within a dataset. This helped in visualizing population patterns effectively.
