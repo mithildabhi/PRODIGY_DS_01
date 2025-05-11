@@ -7,6 +7,12 @@
 ### 💡 Skills & Learning
 - Through this task, I enhanced my skills in creating clear, insightful visualizations using Python tools like Matplotlib and Seaborn. It also deepened my understanding of how graphical representation aids in data interpretation.
 
+### ⚙️ Tools and Libraries used
+- Jupyter notebook
+- Pandas
+- Numpy
+- Matplotlip & Seaborn for visualization
+
 ### 🏆 Output 
 <img src="https://github.com/mithildabhi/PRODIGY_DS_01/blob/main/Screenshot%202025-05-11%20134030.png" width="400" height="400">
 
